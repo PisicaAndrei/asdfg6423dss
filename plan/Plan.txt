@@ -1,0 +1,56 @@
+
+
+
+Pagini:
+1. Pagina principala 
+2. Pagina rezultate
+3. Favorite
+4. Pagina cu profilul meu
+5. Reteta
+6. My kitchen
+7. My recipes
+8. My recipes-adaugare reteta
+9. Pagina deschidere
+
+
+
+******************************Prima deschidere**************************************
+-prezinta ce face aplicatia
+-tutorial de folosire
+******************************Pagina principala*************************************
+-pagina de cautare
+-import from my kitchen
+-textbox adaugare ingrediente
+-bara de sensibilitate
+-filtre
+-buton de cautare
+******************************Pagina de rezultate***********************************
+-camp filtre
+-lista de rezultate 
+******************************Favorite**********************************************
+-arata ca pagina rezultate
+-campul cu alte filtre decat la rezultate
+-click pe o reteta pentru a deschide pagina cu detalii reteta
+******************************Pagina cu profilul meu********************************
+-sistem de achievementuri cu level in functie retete facute etc
+-statsuri cont cu multe detalii
+******************************Detalii reteta****************************************
+-afisare reteta
+-comparatie intre ce ingrediente are si ce mai are nevoie
+-poze cu reteta
+-posibilitatea de rating a retetei
+-camp in care poate adauga my notes
+-buton adaugare la favorite
+??????????????
+******************************My kitchen********************************************
+-pagina unde omul isi poate salva/sterge ingredientele pe care le are in casa
+******************************My recipes********************************************
+-pagina cu retetele adaugate de contul respectiv
+-interfata ca cea de la pagina rezultate
+-buton adauga reteta
+-mecanism stergere reteta
+******************************My recipes-adaugare reteta****************************
+-pagina in care poti adauga retete proprii
+******************************Pagina deschidere*************************************
+-pagina care apare la prima deschidere dupa instalare
+-tutorial de folosire a aplicatiei
